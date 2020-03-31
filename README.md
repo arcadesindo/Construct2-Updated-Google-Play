@@ -11,9 +11,10 @@ But it works perfectly for Google Play Game Services (Sign in, Leaderboard, and 
 
 ### How to use
 You need to include this script in your config.xml files.
+```
 <plugin name="construct-play-games">
-		<variable name="APP_ID" value="YOUR_APP_ID" />
+		<variable name="APP_ID" value="YOUR_APP_ID_HERE" />
 </plugin>
-
+```
 
 
